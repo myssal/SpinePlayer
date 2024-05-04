@@ -19,6 +19,8 @@ const change_spine = (id, assetSpineVersion) => {
         runtimeSpineVersion = spine40
     } else if (assetSpineVersion == 4.1) {
         runtimeSpineVersion = spine41
+    } else if (assetSpineVersion == 3.8) {
+        runtimeSpineVersion = spine38
     }
 
     document.getElementById("player-container").innerHTML = "";

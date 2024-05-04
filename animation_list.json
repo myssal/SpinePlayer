@@ -1,12 +1,22 @@
 [
     {
-        "name": "Spine Boy",
-        "id": "spine_boy",
-        "version": 4.0
+        "name": "White Reaper",
+        "id": "char000202",
+        "version": 4.1
     },
     {
-        "name":"Neon",
-        "id":"neon",
+        "name":"Blood Glutton",
+        "id":"char000203",
+        "version": 4.1
+    },
+    {
+        "name": "Kendo Club",
+        "id": "char000204",
+        "version": 4.1
+    },
+    {
+        "name": "Pool Party",
+        "id": "char000206",
         "version": 4.1
     }
 ]
