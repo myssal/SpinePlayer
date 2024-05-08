@@ -1,0 +1,40 @@
+[
+    {
+		"idChar": "0002",
+		"charName": "Justia",
+		"rarity": "5",
+        "version": 4.1,
+		"costume":	[
+			{
+				"idCostume": "000201",
+				"costumeName": "Knight of Blood",
+				"spine": "char000201",
+				"cutscene": ""
+			},
+			{
+				"idCostume": "000202",
+				"costumeName": "White Reaper",
+				"spine": "char000202",
+            	"cutscene": "cutscene_char000202"
+			},
+			{
+				"idCostume": "000203",
+				"costumeName": "Blood Glutton",
+				"spine": "char000203",
+            	"cutscene": "cutscene_char000203"
+			},
+			{
+				"idCostume": "000204",
+				"costumeName": "Kendo Club",
+				"spine": "char000204",
+            	"cutscene": "cutscene_char000204"
+			},
+			{
+				"idCostume": "000206",
+				"costumeName": "Pool Party",
+				"spine": "char000206",
+            	"cutscene": "cutscene_char000206"
+			}
+		]
+	}
+]

@@ -2,7 +2,7 @@
 
 let current_spine = "";
 let activeid, activeSpineVersion;
-let premultipliedAlphaValue = true;
+let premultipliedAlphaValue = false;
 
 const change_spine = (id, assetSpineVersion) => {
 

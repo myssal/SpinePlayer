@@ -1,0 +1,458 @@
+[
+    {
+        "id": "c010_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c011_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c012_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c013_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c014_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c015_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c022_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c030_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c032_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c033_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c040_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c043_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c062_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c070_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c071_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c072_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c080_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c082_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c090_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c091_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c092_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c100_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c101_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c101_01_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c102_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c110_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c111_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c112_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c121_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c130_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c131_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c132_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c140_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c141_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c142_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c150_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c160_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c170_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c171_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c172_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c180_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c181_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c190_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c191_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c192_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c194_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c200_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c200_01_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c201_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c202_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c203_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c210_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c212_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c220_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c221_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c222_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c224_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c225_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c230_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c231_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c232_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c233_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c233_01_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c241_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c242_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c260_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c260_01_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c260_02_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c261_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c270_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c271_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c280_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c281_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c282_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c310_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c311_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c312_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c313_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c321_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c330_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c330_01_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c350_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c351_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c352_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c353_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c361_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c380_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c381_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c382_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c392_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c400_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c401_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c402_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c430_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c430_02_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c431_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c432_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c450_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c451_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c500_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c550_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c800_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c801_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c802_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c810_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c810_02_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c811_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c812_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c820_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c821_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c822_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c901_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c907_00_skillcut",
+        "version": "4.1"
+    },
+    {
+        "id": "c999_00_skillcut",
+        "version": "4.1"
+    }
+]

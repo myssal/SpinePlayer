@@ -1,13 +1,12 @@
 "use strict";
 
 const create_list = async () => {
-    const response = await fetch('animation_list.json');
+    const response = await fetch('Nikke.json');
     const json = await response.json()
-    
     json.forEach((animation) => {
         const liste_item = document.createElement("li");
 
-        liste_item.innerHTML = animation.name;
+        liste_item.innerHTML = animation.id;
 
         liste_item.setAttribute('id', animation.id)
 
